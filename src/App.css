@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+.App {
+  position: relative;
+  display: flex;
+  background-color: #1f1f1f;
+  height: 100vh;
+  margin: 0;
+  justify-content: center;
+  align-items: center;
+}
