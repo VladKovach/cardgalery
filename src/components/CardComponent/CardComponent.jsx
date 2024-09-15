@@ -20,7 +20,7 @@ const CardComponent = ({ cards }) => {
         <h3 className={card.active ? 'cardHeader active' : 'cardHeader'}>{card.name}</h3>
       </div>
     )
-  })
+  }) 
 
   return <div className="cardComponent">{cardList}</div>
 }
